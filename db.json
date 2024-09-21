@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and The Deathly Hallows",
+      "author": "by J.K.Rowling",
+      "imageUrl": "assets/book1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Simple Way Of Piece Life",
+      "author":"by Armor Ramsey",
+      "imageUrl": "assets/book2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Fault In Our Stars",
+      "author":"by John Green",
+      "imageUrl": "assets/book3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "A Heritage of Shadows",
+      "author": "by Madelene Brent",
+      "imageUrl": "assets/book4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Girl in the letter",
+      "author": "by Emily Gunnis",
+      "imageUrl": "assets/book5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Atomic Habits",
+      "author": "by James Clear",
+      "imageUrl": "assets/book6.jpg"
+    }]
+}
